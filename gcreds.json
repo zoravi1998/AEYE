@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lucid-messenger-251717",
+  "private_key_id": "0e8554bcf8c412ad5d5d7854f5346670e288f020",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC2Leg3YO7b8Mom\nzIGU67LL9mJrytukSotjWUcsAXcsVA/4EjjBhGLX4ENPz8xiza3icaLgdzxk937D\nOMPjvN+7t8xYiPOOk6KnszpY72WAa2hSP50KrZ8LGYK9R6vvnL/3be85kws9aKpV\nO+R19Vy0A6uWVCJKgrdCMWiQ49uD+lPInh4gK6LNzxJ3VP2dBEJF3VHcumvC0Xao\n3gigLRw9ktCSxRiI4gKAfoiZd7MFcxmM4+g7t+yptrGwYgkva9jg3v3xoC+SAFWl\n74g0CtouAHLUC47UP6hQpHmL3koCpAkiVselAhbHkWGXt3LliuM8wqp894kNv5Jg\nTVF3GLZXAgMBAAECggEAH+CVhwcnlIWkIbjcHb5GWWkh3KGw4CUJEde/2+Pfwfpt\nluc9ViM/lm2P6am/JjS+LebbbLKAd1xVKnzGzhUxAuxMzdsc3wBXUEfMuF4fYSKq\nLOYjqQgrUapjlZIydCl176olV2oy58pmL6bcuYU29OrFffb3zxjjTypNFTlBomyA\n7wCy/+W51Lhm0zI8rgq994Z2t2vI3+yVoBiEG3OGrLYh6tDK5wprvO+neeJ2srxJ\n20MUAdeaPIJpbQL56mbKIBY6PHqFoiBgqPx/WTW6X2on3l3MKPgfSzRpzuE4LpaD\n6hyoQOO9H8MgTGlbQFv9oTxwjCeycaQu8OwA65gl8QKBgQD9Kbsexc4pX/ap+Ssk\n205fY3VKs1sqFESuyLibMg1RmxT/QpBcflpYjZUirAonqqZj28IYztXzTDnS0x1z\nZutJqHbesKK6Gf9PPxMVwbGr1kBCSzc8LHM6NXB1G0FjOsrB2wCAGE6sbjovryYD\nnKHTiOHNsqK90zE1qR+lESJqBwKBgQC4OIogMHr4aLHJZiFdykMm7tp/9Yksowgb\nvh8Pg5XwM137FSStwezaJkU380zqgZDEkdi0VkQenxJ/k4MBJyxre4EyIqVjaqG3\ntn+SaPLBwX+qwfa+7o8n997znLxPVtcoWJHMVNuNuKWsaQzZXQqMKjGc8RSFXphl\nG2RTdRt9MQKBgDwKhKV0tkNbzg1b2d6g4IKA/RVdWjatnehyFE5CXaRICn/Lkp9N\nHDI6Se9yK+pib5npSaxGibltD52vkiGHfC/481A3RjCq78EkrWsQiAnAA3d1jUEJ\nLb7VY7lyYFyfWe0F+qVmnmoIrmYWvQZIRJz9rsfxIOWyS851MNseKDJLAoGABg92\nG9D8eqeXEbUWa+t3ghRhg8wkEx/Z6G+8vdnqWNiXwubTKhQzIooXxNtwMFbK2Gyj\n4GrmGsvI5AGKUcNkJrUNbwTMxBSB9XU/hSWGtvESrh9raqSWeQ4ie4kweLu2oFEp\nmrs/7c2hRaa/EXeKHUpWD3+u2SRfhxP7nPNBUEECgYEA4ea32qT78OI2pY74Ui5B\nuz1O76Ug7RUGw9h07958Rrnrnn2YOFutjX27AWmc3ApjwhN9Bm2hLcHfhS3r6jmS\nOCkppAt9Z6yzNkvjkr+E8/8KnVqQmy+COblcmO3fxREBOOg1cZaQ7nhP4nJL+cYb\nXBlgGyOZd8VhVCDSLEYdorc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi@lucid-messenger-251717.iam.gserviceaccount.com",
+  "client_id": "104946768295201552152",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi%40lucid-messenger-251717.iam.gserviceaccount.com"
+}
